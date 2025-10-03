@@ -23,7 +23,7 @@ public class Dev {
 
     public void  build(){
         comp.compile();
-        System.out.println("daya");
+        System.out.println(" dev daya");
 
     }
 }

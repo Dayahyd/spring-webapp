@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 public class Hello {
     @RequestMapping("/")
     public String daya(){
-        return "hello daya  this is demo";
+        return "hello daya this is demo spring";
     }
 
 }

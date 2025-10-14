@@ -15,7 +15,7 @@
   --cart_body_color: rgb(103, 196, 211);
   --quantity-clr: rgb(0, 0, 0);
   --button-clr: black;
-  --card-bg-clr: white;
+  --card-bg-clr: rgb(235, 221, 221);
   --btn-bg: var(--navbar_background);
   --btn-clr: black;
   --category-hvr: rgb(200, 200, 200);
